@@ -1,0 +1,13 @@
+button{
+    height: 200px;
+    width: 70px;
+    border-radius: 5px;
+}
+
+.one{
+    background-color: blue;
+}
+
+.two{
+    background-color: red;
+}
